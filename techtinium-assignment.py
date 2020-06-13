@@ -28,7 +28,7 @@ def optimizer(capacity,hour,Machine_capacity,Machine_cost,region):
 
 
 # user input
-capacity,hour =input().split(" ")
+capacity,hour =input("Enter the inputs\n").split(" ")
 capacity,hour =int(capacity),int(hour)
 
 
